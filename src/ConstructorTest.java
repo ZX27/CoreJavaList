@@ -35,6 +35,7 @@ public class ConstructorTest
         private String name = "";
         private double salary;
 
+        //static initialization block
         static
         {
             Random generater = new Random();
