@@ -39,15 +39,18 @@ public class ConstructorTest
         static
         {
             Random generater = new Random();
-
+            //set nextId to a random number between 0 and 9999
             nextId = generater.nextInt(10000);
         }
 
+        //Object initialization block
         {
             id = nextId;
             nextId++;
         }
 
+
+        //three overload constructors
         public Employee(String n, double s)
         {
             name = n;
