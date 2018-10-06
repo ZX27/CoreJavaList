@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OneToFourChapter/FirstSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/BigIntegerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/CalenderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/CompoundInterest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/EmployeeTest$Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/EmployeeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/LotteryArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/LotteryDrawing$InputTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/LotteryDrawing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/LotteryOdds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/ParamTest$Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/ParamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/Retirement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/StaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/ManagerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,14 +95,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2803" />
-          <entry key="txt" value="71" />
+          <entry key="java" value="2887" />
+          <entry key="txt" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2803" />
-          <entry key="PLAIN_TEXT" value="71" />
+          <entry key="JAVA" value="2887" />
+          <entry key="PLAIN_TEXT" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -127,7 +111,7 @@
           <entry key="MODULES/mdl-CoreJavaList" value="1" />
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="25" />
+          <entry key="java" value="26" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -135,7 +119,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="26" />
           <entry key="UML" value="2" />
           <entry key="XML" value="1" />
         </counts>
@@ -147,11 +131,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/inheritance/ManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+            <state relative-caret-position="219">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/FirstSample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="64" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="64" />
+              <folding>
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -227,6 +224,7 @@
         <option value="$PROJECT_DIR$/src/inheritance/Employee.java" />
         <option value="$PROJECT_DIR$/src/inheritance/Manager.java" />
         <option value="$PROJECT_DIR$/src/inheritance/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/OneToFourChapter/FirstSample.java" />
       </list>
     </option>
   </component>
@@ -281,19 +279,6 @@
               <item name="CoreJavaList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CoreJavaList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaList" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OneToFourChapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoreJavaList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaList" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OneToFourChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="PackageTest" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -304,7 +289,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538793082610" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538793399983" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -429,7 +414,7 @@
       <workItem from="1538746299500" duration="613000" />
       <workItem from="1538746968739" duration="425000" />
       <workItem from="1538747437524" duration="2908000" />
-      <workItem from="1538789804269" duration="3158000" />
+      <workItem from="1538789804269" duration="3508000" />
     </task>
     <task id="LOCAL-00001" summary="OK">
       <created>1538742850921</created>
@@ -494,11 +479,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538791839303</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="OK">
+      <created>1538793101630</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1538793101630</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67591000" />
+    <option name="totallyTimeSpent" value="67941000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,7 +505,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49434572" visible="true" weight="0.24205749" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49434572" visible="true" weight="0.24205749" />
       <window_info id="Structure" order="1" sideWeight="0.5056543" side_tool="true" weight="0.17397882" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -522,7 +514,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50153846" side_tool="true" weight="0.2397882" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.31825525" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.31825525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3473344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -597,11 +589,11 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="OK" />
     <MESSAGE value="ok" />
     <MESSAGE value="package引用测试" />
     <MESSAGE value="重新打包" />
-    <option name="LAST_COMMIT_MESSAGE" value="重新打包" />
+    <MESSAGE value="OK" />
+    <option name="LAST_COMMIT_MESSAGE" value="OK" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -903,8 +895,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/inheritance/ManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+        <state relative-caret-position="219">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/FirstSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="64" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
