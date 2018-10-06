@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="package引用测试">
+    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/ManagerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BigIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/BigIntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalenderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/CalenderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/CompoundInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/ConstructorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LotteryArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/LotteryArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LotteryDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/LotteryDrawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LotteryOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/LotteryOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PackageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PackageTest/PackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/ParamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Retirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/Retirement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OneToFourChapter/PackageTest/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneToFourChapter/PackageTest/PackageTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,14 +98,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1740" />
-          <entry key="txt" value="65" />
+          <entry key="java" value="1759" />
+          <entry key="txt" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1740" />
-          <entry key="PLAIN_TEXT" value="65" />
+          <entry key="JAVA" value="1759" />
+          <entry key="PLAIN_TEXT" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -123,7 +114,7 @@
           <entry key="MODULES/mdl-CoreJavaList" value="1" />
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="20" />
+          <entry key="java" value="25" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -131,7 +122,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="25" />
           <entry key="UML" value="2" />
           <entry key="XML" value="1" />
         </counts>
@@ -144,19 +135,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/BigIntegerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/ManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/CalenderTest.java">
+        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/PackageTest/com/horstmann/corejava/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/PackageTest/PackageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,73 +165,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/CompoundInterest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/ConstructorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/EmployeeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/LotteryArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/LotteryDrawing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/LotteryOdds.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/ParamTest.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/Retirement.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -272,6 +218,8 @@
         <option value="$PROJECT_DIR$/src/PackageTest.java" />
         <option value="$PROJECT_DIR$/src/PackageTest/PackageTest.java" />
         <option value="$PROJECT_DIR$/src/com/horstmann/corejava/Employee.java" />
+        <option value="$PROJECT_DIR$/src/OneToFourChapter/PackageTest/com/horstmann/corejava/Employee.java" />
+        <option value="$PROJECT_DIR$/src/OneToFourChapter/PackageTest/PackageTest.java" />
       </list>
     </option>
   </component>
@@ -326,6 +274,19 @@
               <item name="CoreJavaList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CoreJavaList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJavaList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OneToFourChapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJavaList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJavaList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OneToFourChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="PackageTest" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -336,7 +297,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538791441211" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538791814660" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -455,7 +416,7 @@
       <workItem from="1538746299500" duration="613000" />
       <workItem from="1538746968739" duration="425000" />
       <workItem from="1538747437524" duration="2908000" />
-      <workItem from="1538789804269" duration="1518000" />
+      <workItem from="1538789804269" duration="1964000" />
     </task>
     <task id="LOCAL-00001" summary="OK">
       <created>1538742850921</created>
@@ -499,11 +460,25 @@
       <option name="project" value="LOCAL" />
       <updated>1538790270071</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="重新打包">
+      <created>1538791401945</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538791401945</updated>
+    </task>
+    <task id="LOCAL-00008" summary="重新打包">
+      <created>1538791452988</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538791452988</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65951000" />
+    <option name="totallyTimeSpent" value="66397000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -516,6 +491,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49434572" visible="true" weight="0.24205749" />
       <window_info id="Structure" order="1" sideWeight="0.5056543" side_tool="true" weight="0.17397882" />
@@ -604,7 +580,8 @@
     <MESSAGE value="OK" />
     <MESSAGE value="ok" />
     <MESSAGE value="package引用测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="package引用测试" />
+    <MESSAGE value="重新打包" />
+    <option name="LAST_COMMIT_MESSAGE" value="重新打包" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -781,20 +758,10 @@
         <state relative-caret-position="-1428" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/horstmann/corejava/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/PackageTest/com/horstmann/corejava/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PackageTest/PackageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,8 +833,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/Retirement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="-43">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/ManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/PackageTest/com/horstmann/corejava/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneToFourChapter/PackageTest/PackageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
