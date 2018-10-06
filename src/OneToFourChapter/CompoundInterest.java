@@ -1,3 +1,5 @@
+package OneToFourChapter;
+
 import java.util.function.DoubleUnaryOperator;
 
 public class CompoundInterest

@@ -1,3 +1,5 @@
+package OneToFourChapter;
+
 import java.util.Scanner;
 
 public class Retirement
