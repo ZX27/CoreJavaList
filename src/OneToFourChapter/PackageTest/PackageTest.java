@@ -1,6 +1,5 @@
-package PackageTest;
+package OneToFourChapter.PackageTest;
 
-import com.sun.xml.internal.messaging.saaj.util.CharReader;
 import com.horstmann.corejava.Employee;
 import static java.lang.System.*;
 

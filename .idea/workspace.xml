@@ -336,7 +336,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538791371370" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538791441211" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -379,7 +379,7 @@
       </method>
     </configuration>
     <configuration name="PackageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PackageTest.PackageTest" />
+      <option name="MAIN_CLASS_NAME" value="OneToFourChapter.PackageTest.PackageTest" />
       <module name="CoreJavaList" />
       <method v="2">
         <option name="Make" enabled="true" />
