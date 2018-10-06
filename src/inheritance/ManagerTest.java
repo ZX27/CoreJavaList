@@ -2,7 +2,7 @@ package inheritance;
 
 /**
  * This programme demonstrates inheritance
- * @author ZX27
+ * @author by ZX27
  */
 public class ManagerTest
 {
@@ -19,8 +19,6 @@ public class ManagerTest
         staff[2] = new Employee("Joey", 40000, 1999, 3, 11);
 
         for (Employee e : staff)
-        {
             System.out.println("name=" + e.getName() + ", salary=" + e.getSalary());
-        }
     }
 }
