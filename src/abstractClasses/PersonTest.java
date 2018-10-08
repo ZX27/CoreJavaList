@@ -1,7 +1,7 @@
 package abstractClasses;
 
 /**
- * This programme demonstrate classes
+ * This program demonstrate classes
  * @author by ZX27
  */
 public class PersonTest
