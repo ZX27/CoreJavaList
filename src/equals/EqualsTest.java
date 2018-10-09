@@ -16,7 +16,7 @@ public class EqualsTest
         Employee ross = new Employee("Ross Geller", 40000, 1998, 10, 20);
 
         System.out.println("chandler1 == chandler2: " + (chandler1 == chandler2));
-        System.out.println("chandler1 == chandler3: " + (chandler1 == chandler3));
+        System.out.println("chandler1 == chandler3: " + (chandler1 == chandler3)); //不指向同一个对象，返回false
         System.out.println("chandler1.equals(chandler3): " + chandler1.equals(chandler3));
         System.out.println("chandler.equals(ross): " + chandler1.equals(ross));
         System.out.println("ross.toString(): " + ross);
