@@ -63,6 +63,6 @@ public class Employee
 
     public String toString()
     {
-        return getClass().getName() + "[name=" + name + "salary=" + "hireday=" + hireDay + "]";
+        return getClass().getName() + "[name=" + name + " salary=" + salary + " hireday=" + hireDay + "]";
     }
 }
