@@ -1,7 +1,5 @@
 package equals;
 
-import java.awt.*;
-
 /**This program demonstrates the equals method.
  * @author ZX27
  */
