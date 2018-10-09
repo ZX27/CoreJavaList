@@ -1,4 +1,4 @@
-package OneToFourChapter;
+package oneToFourChapter;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

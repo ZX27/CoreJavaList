@@ -1,6 +1,6 @@
-package OneToFourChapter.PackageTest;
+package oneToFourChapter.PackageTest;
 
-import OneToFourChapter.PackageTest.com.horstmann.corejava.Employee;
+import oneToFourChapter.PackageTest.com.horstmann.corejava.Employee;
 import static java.lang.System.*;
 
 public class PackageTest

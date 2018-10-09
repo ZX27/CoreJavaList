@@ -1,4 +1,4 @@
-package OneToFourChapter.PackageTest.com.horstmann.corejava;
+package oneToFourChapter.PackageTest.com.horstmann.corejava;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package OneToFourChapter;
+package oneToFourChapter;
 
 public class FirstSample
 {

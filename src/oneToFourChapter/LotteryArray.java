@@ -1,6 +1,4 @@
-package OneToFourChapter;
-
-import com.sun.rowset.internal.Row;
+package oneToFourChapter;
 
 public class LotteryArray
 {
