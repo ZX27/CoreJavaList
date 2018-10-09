@@ -15,7 +15,7 @@ public class EqualsTest
         Employee chandler3 = new Employee("Chandler Bing", 50000, 1999, 12, 21);
         Employee ross = new Employee("Ross Geller", 40000, 1998, 10, 20);
 
-        System.out.println("chandler1 == chandler2: " + (chandler1 ==chandler2));
+        System.out.println("chandler1 == chandler2: " + (chandler1 == chandler2));
         System.out.println("chandler1 == chandler3: " + (chandler1 == chandler3));
         System.out.println("chandler1.equals(chandler3): " + chandler1.equals(chandler3));
         System.out.println("chandler.equals(ross): " + chandler1.equals(ross));
