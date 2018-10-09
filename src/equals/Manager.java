@@ -27,6 +27,8 @@ public class Manager extends Employee
     {
         if (!super.equals(otherObject))     return false;
         Manager other = (Manager) otherObject;
+
+        //super.equals checked that this and other belong to the same class
         return bonus == other.bonus;
     }
 
