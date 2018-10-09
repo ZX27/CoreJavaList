@@ -29,5 +29,6 @@ public class EqualsTest
         System.out.println("chandler3.hashCode(): " + chandler3.hashCode());
         System.out.println("ross.hashCode(): " + ross.hashCode());
         System.out.println("monica.hashCode(): " + monica.hashCode());
+        System.out.println("boss.hashCode(): " + boss.hashCode());
     }
 }
