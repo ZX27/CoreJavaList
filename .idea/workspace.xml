@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arryList/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/EnumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -100,14 +100,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7448" />
+          <entry key="java" value="8115" />
           <entry key="md" value="103" />
           <entry key="txt" value="153" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7448" />
+          <entry key="JAVA" value="8115" />
           <entry key="Markdown" value="103" />
           <entry key="PLAIN_TEXT" value="153" />
         </counts>
@@ -118,7 +118,7 @@
           <entry key="MODULES/mdl-CoreJavaList" value="1" />
           <entry key="class" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="46" />
+          <entry key="java" value="47" />
           <entry key="md" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -127,7 +127,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="46" />
+          <entry key="JAVA" value="47" />
           <entry key="Markdown" value="1" />
           <entry key="UML" value="2" />
           <entry key="XML" value="1" />
@@ -152,13 +152,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arryList/ArrayListTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+              <caret line="23" column="89" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/enums/EnumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="72" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,8 +183,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/inheritance/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -225,6 +241,7 @@
         <option value="$PROJECT_DIR$/src/equals/Manager.java" />
         <option value="$PROJECT_DIR$/src/arryList/ArrayList.java" />
         <option value="$PROJECT_DIR$/src/arryList/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/enums/EnumTest.java" />
       </list>
     </option>
   </component>
@@ -280,18 +297,6 @@
               <item name="CoreJavaList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CoreJavaList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaList" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="equals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoreJavaList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaList" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -304,7 +309,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539073985088" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539075869133" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -331,7 +336,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListTest">
+  <component name="RunManager" selected="Application.EnumTest">
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arryList.ArrayListTest" />
       <module name="CoreJavaList" />
@@ -345,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equals.EqualsTest" />
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enums.EnumTest" />
       <module name="CoreJavaList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equals.*" />
+          <option name="PATTERN" value="enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OneToFourChapter.FirstSample" />
+    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equals.EqualsTest" />
       <module name="CoreJavaList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OneToFourChapter.*" />
+          <option name="PATTERN" value="equals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,19 +407,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstSample" />
       <item itemvalue="Cucumber java.All Features in: abstractClasses" />
       <item itemvalue="Application.PersonTest" />
       <item itemvalue="Application.EqualsTest" />
       <item itemvalue="Application.ArrayListTest" />
+      <item itemvalue="Application.EnumTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.ArrayListTest" />
         <item itemvalue="Application.EqualsTest" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Cucumber java.All Features in: abstractClasses" />
-        <item itemvalue="Application.FirstSample" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +468,7 @@
       <workItem from="1539006316377" duration="1515000" />
       <workItem from="1539051217394" duration="4212000" />
       <workItem from="1539056486911" duration="2389000" />
-      <workItem from="1539072384126" duration="1438000" />
+      <workItem from="1539072384126" duration="3342000" />
     </task>
     <task id="LOCAL-00001" summary="OK">
       <created>1538742850921</created>
@@ -640,7 +645,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539060776430</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Equal method test">
+      <created>1539074001318</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1539074001318</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -649,7 +661,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97777000" />
+    <option name="totallyTimeSpent" value="99681000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1108,17 +1120,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/inheritance/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/arryList/ArrayListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <caret line="23" column="89" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="72" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
           </folding>
         </state>
       </provider>
