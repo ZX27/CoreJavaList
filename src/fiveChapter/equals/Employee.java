@@ -1,4 +1,4 @@
-package equals;
+package fiveChapter.equals;
 
 import java.time.LocalDate;
 import java.util.Objects;

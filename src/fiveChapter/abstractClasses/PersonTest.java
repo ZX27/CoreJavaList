@@ -1,4 +1,4 @@
-package abstractClasses;
+package fiveChapter.abstractClasses;
 
 /**
  * This program demonstrate classes

@@ -1,17 +1,23 @@
-package abstractClasses;
+package fiveChapter.inheritance;
 
 import java.time.LocalDate;
 
-public class Employee extends Person
+public class Employee
 {
+    private String name;
     private double salary;
     private LocalDate hireDay;
 
     public Employee(String name, double salary, int year, int month, int day)
     {
-        super(name);
+        this.name = name;
         this.salary = salary;
         hireDay = LocalDate.of(year, month, day);
+    }
+
+    public String getName()
+    {
+        return name;
     }
 
     public double getSalary()
@@ -22,11 +28,6 @@ public class Employee extends Person
     public LocalDate getHireDay()
     {
         return hireDay;
-    }
-
-    public String getDescription()
-    {
-        return String.format("an employee with salary of $%.2f", salary);
     }
 
     public void raiseSalary(double byPercent)

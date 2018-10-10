@@ -1,4 +1,4 @@
-package inheritance;
+package fiveChapter.inheritance;
 
 /**
  * This programme demonstrates inheritance

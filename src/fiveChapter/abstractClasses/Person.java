@@ -1,4 +1,4 @@
-package abstractClasses;
+package fiveChapter.abstractClasses;
 
 public abstract class Person
 {

@@ -1,4 +1,4 @@
-package enums;
+package fiveChapter.enums;
 
 import java.util.*;
 
