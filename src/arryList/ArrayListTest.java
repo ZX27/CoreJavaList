@@ -1,4 +1,4 @@
-package fiveChapter.arryList;
+package arryList;
 
 import java.time.LocalDate;
 import java.util.*;

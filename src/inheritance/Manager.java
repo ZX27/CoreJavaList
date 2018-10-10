@@ -1,4 +1,4 @@
-package fiveChapter.inheritance;
+package inheritance;
 
 public class Manager extends Employee
 {

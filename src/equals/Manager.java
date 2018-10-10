@@ -1,4 +1,4 @@
-package fiveChapter.equals;
+package equals;
 
 public class Manager extends Employee
 {

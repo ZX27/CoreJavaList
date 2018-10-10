@@ -1,4 +1,4 @@
-package fiveChapter.equals;
+package equals;
 
 /**This program demonstrates the equals method.
  * @author ZX27

@@ -1,4 +1,4 @@
-package fiveChapter.abstractClasses;
+package abstractClasses;
 
 public class Student extends Person
 {
