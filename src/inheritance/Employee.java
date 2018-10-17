@@ -1,5 +1,7 @@
 package inheritance;
 
+import abstractClasses.Person;
+
 import java.time.LocalDate;
 
 public class Employee
