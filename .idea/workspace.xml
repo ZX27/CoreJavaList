@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/timer/TimerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/EmployeeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/EmployeeSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timer/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timer/TimerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +82,7 @@
     <session id="-1561908682">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
@@ -98,19 +98,20 @@
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9647" />
+          <entry key="java" value="9694" />
           <entry key="md" value="103" />
           <entry key="txt" value="212" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9647" />
+          <entry key="JAVA" value="9694" />
           <entry key="Markdown" value="103" />
           <entry key="PLAIN_TEXT" value="212" />
         </counts>
@@ -145,20 +146,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/interfaces/EmployeeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="306">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/timer/TimerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="43">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -178,7 +179,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/interfaces/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
+            <state relative-caret-position="357">
               <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="e#807#808#0" expanded="true" />
@@ -244,8 +245,8 @@
         <option value="$PROJECT_DIR$/src/inheritance/Employee.java" />
         <option value="$PROJECT_DIR$/src/abstractClasses/Person.java" />
         <option value="$PROJECT_DIR$/src/interfaces/Employee.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/EmployeeSortTest.java" />
         <option value="$PROJECT_DIR$/src/timer/TimerTest.java" />
+        <option value="$PROJECT_DIR$/src/interfaces/EmployeeSortTest.java" />
       </list>
     </option>
   </component>
@@ -329,15 +330,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540346430472" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540350140858" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -534,7 +535,8 @@
       <workItem from="1539941628499" duration="663000" />
       <workItem from="1540183212048" duration="40000" />
       <workItem from="1540183368172" duration="48000" />
-      <workItem from="1540340612002" duration="4496000" />
+      <workItem from="1540340612002" duration="4521000" />
+      <workItem from="1540348161448" duration="1660000" />
     </task>
     <task id="LOCAL-00001" summary="OK">
       <created>1538742850921</created>
@@ -802,7 +804,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539876167784</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="ok">
+      <created>1540346451458</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1540346451458</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -811,7 +820,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129651000" />
+    <option name="totallyTimeSpent" value="131336000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -824,8 +833,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49434572" weight="0.20499243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49434572" visible="true" weight="0.20499243" />
       <window_info id="Structure" order="1" sideWeight="0.5056543" side_tool="true" weight="0.17397882" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1355,9 +1365,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/oneToFourChapter/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="10" selection-start-column="7" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/interfaces/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
+        <state relative-caret-position="357">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="e#807#808#0" expanded="true" />
@@ -1366,27 +1383,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interfaces/EmployeeSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oneToFourChapter/EmployeeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="10" selection-start-column="7" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/timer/TimerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="43">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/EmployeeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>

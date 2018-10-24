@@ -5,7 +5,7 @@ import java.awt.event.*;
 import java.util.*;
 import javax.swing.*;
 import javax.swing.Timer;
-
+//消除和java.util.Timer的二义性
 /**
  * @author ZX27
  */
@@ -18,7 +18,7 @@ public class TimerTest
 
         //construct a timer that calls the listener
         //once every 10 seconds
-        Timer t = new Timer(10000, listener);
+        Timer t = new Timer(5000, listener);
         t.start();
         JOptionPane.showMessageDialog(null, "Quit program?");
         System.exit(0);

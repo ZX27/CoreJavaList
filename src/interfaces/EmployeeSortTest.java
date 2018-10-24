@@ -16,6 +16,7 @@ public class EmployeeSortTest
         staff[1] = new Employee("Chandler Bing", 100000);
         staff[2] = new Employee("Rachel Green", 80000);
 
+        //按照工资高低排序
         Arrays.sort(staff);
 
         for (Employee e : staff)
