@@ -15,7 +15,7 @@ public class InnerClass
 {
     public static void main(String[] args)
     {
-        TalkingClock clock = new TalkingClock(1000, true);
+        TalkingClock clock = new TalkingClock(500, true);
         clock.start();
 
         //keep program running until user selects "OK"
