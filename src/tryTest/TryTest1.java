@@ -1,9 +1,5 @@
 package tryTest;
 
-import com.sun.org.apache.xml.internal.resolver.helpers.PublicId;
-
-import java.net.CacheRequest;
-
 public class TryTest1
 {
     public TryTest1()
