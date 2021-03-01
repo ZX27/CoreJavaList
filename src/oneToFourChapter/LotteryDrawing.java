@@ -30,7 +30,7 @@ public class LotteryDrawing {
             results[i] = numbers[r]; //抽取的是numbers数组的下标
 
             //move the last element int the random location
-            numbers[r] = numbers[n - 1];//不重复取数字
+            numbers[r] = numbers[n - 1];//用数组最后一个数字覆盖被抽取的那个数字（可理解为把第r个拿出来然后最后一个补进去，不放回抽样）
             n--;
         }
 
