@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/enums/enums/EnumTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/enums/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/enums/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/enums/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tryTest/TryTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tryTest/TryTest1.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,212 +33,8 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2015501586">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.17" value="3" />
-          <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="18" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="Employee" value="1" />
-          <entry key="JAVA/CalenderTest" value="2" />
-          <entry key="JAVA/Employee" value="1" />
-          <entry key="JAVA/LotteryArray" value="2" />
-          <entry key="class" value="1" />
-          <entry key="iml" value="2" />
-          <entry key="java" value="25" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="25" />
-          <entry key="UML" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="6713" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="6713" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1561908682">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="40" />
-          <entry key="project.open.time.1" value="8" />
-          <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.14" value="4" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="3" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.23" value="2" />
-          <entry key="project.open.time.242" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="40" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="13916" />
-          <entry key="md" value="103" />
-          <entry key="txt" value="229" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="13916" />
-          <entry key="Markdown" value="103" />
-          <entry key="PLAIN_TEXT" value="229" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="JAVA/ParamTest" value="1" />
-          <entry key="JAVA/inheritance" value="1" />
-          <entry key="MODULES/mdl-CoreJavaList" value="1" />
-          <entry key="PackageTest" value="1" />
-          <entry key="class" value="2" />
-          <entry key="iml" value="3" />
-          <entry key="java" value="101" />
-          <entry key="md" value="4" />
-          <entry key="xml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="101" />
-          <entry key="Markdown" value="4" />
-          <entry key="UML" value="4" />
-          <entry key="XML" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="CoreJavaList" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tryTest/TryTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stackTrace/StackTraceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/ManagerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/Manager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oneToFourChapter/CalenderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oneToFourChapter/EmployeeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12988">
-              <caret line="814" column="24" selection-start-line="814" selection-start-column="24" selection-end-line="814" selection-end-column="24" />
-              <folding>
-                <element signature="e#33047#33048#0" expanded="true" />
-                <element signature="e#33096#33097#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StackTraceElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -331,6 +121,7 @@
     <option name="width" value="697" />
     <option name="height" value="745" />
   </component>
+  <component name="ProjectId" id="1p94hsMaksZbbuqpDBcMDvhLwu3" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -380,6 +171,10 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -392,7 +187,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="settings.editor.splitter.proportion" value="0.25222552" />
   </component>
   <component name="RecentsManager">
@@ -400,25 +195,26 @@
       <recent name="asd" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.StackTraceTest">
-    <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerClass.InnerClass" />
+  <component name="RunManager" selected="Application.CalenderTest">
+    <configuration name="CalenderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.CalenderTest" />
       <module name="CoreJavaList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerClass.*" />
+          <option name="PATTERN" value="oneToFourChapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.FirstSample" />
+      <module name="CoreJavaList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneToFourChapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -432,19 +228,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stackTrace.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timer.TimerTest" />
-      <module name="CoreJavaList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="timer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -478,23 +261,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.TimerTest" />
-      <item itemvalue="Application.InnerClass" />
       <item itemvalue="Application.TryTest1" />
       <item itemvalue="Application.TryTest2" />
       <item itemvalue="Application.StackTraceTest" />
+      <item itemvalue="Application.FirstSample" />
+      <item itemvalue="Application.CalenderTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalenderTest" />
+        <item itemvalue="Application.FirstSample" />
         <item itemvalue="Application.StackTraceTest" />
         <item itemvalue="Application.TryTest1" />
         <item itemvalue="Application.TryTest2" />
-        <item itemvalue="Application.InnerClass" />
-        <item itemvalue="Application.TimerTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
   </component>
@@ -566,6 +361,7 @@
       <workItem from="1543971801890" duration="2512000" />
       <workItem from="1544962842172" duration="702000" />
       <workItem from="1547021123738" duration="601000" />
+      <workItem from="1614582101889" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="OK">
       <created>1538742850921</created>
@@ -945,7 +741,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -962,29 +758,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -1014,7 +793,6 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/oneToFourChapter/CalenderTest.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -1060,7 +838,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="535">
           <caret line="184" column="6" selection-start-line="184" selection-start-column="6" selection-end-line="184" selection-end-column="6" />
@@ -1222,7 +1000,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Comparable.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="843">
           <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
@@ -1257,14 +1035,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="1430" column="49" selection-start-line="1430" selection-start-column="39" selection-end-line="1430" selection-end-column="49" />
@@ -1285,14 +1063,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/Timer.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/Timer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="203" column="11" selection-start-line="203" selection-start-column="11" selection-end-line="203" selection-end-column="11" />
@@ -1364,7 +1142,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12988">
           <caret line="814" column="24" selection-start-line="814" selection-start-column="24" selection-end-line="814" selection-end-column="24" />
@@ -1375,7 +1153,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StackTraceElement.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StackTraceElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
