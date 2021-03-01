@@ -2,8 +2,10 @@ package oneToFourChapter;
 
 import java.util.Scanner;
 
-public class Retirement {
-    public static void main(String[] args) {
+public class Retirement
+{
+    public static void main(String[] args)
+    {
         //read inputs
         Scanner in = new Scanner(System.in);
 
@@ -19,7 +21,8 @@ public class Retirement {
         double balance = 0;
         int years = 0;
 
-        while (balance < goal) {
+        while (balance < goal)
+        {
             balance += payment;
             double interest = balance * interestRate / 100;
             balance += interest;

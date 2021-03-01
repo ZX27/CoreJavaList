@@ -1,7 +1,9 @@
 package oneToFourChapter;
 
-public class ParamTest {
-    public static void main(String[] args) {
+public class ParamTest
+{
+    public static void main(String[] args)
+    {
         /*Test1:方法无法修改基本参数变量*/
         System.out.println("Testing tripleValue");
         double percent = 10;
@@ -28,16 +30,19 @@ public class ParamTest {
 
     }
 
-    public static void tripleValue(double x) {
+    public static void tripleValue(double x)
+    {
         x = 3 * x;
     }
 
-    public static void tripleSalary(Employee x) {
+    public static void tripleSalary(Employee x)
+    {
         x.raiseSalary(200);
         System.out.println("End of method : salary=" + x.getSalary());
     }
 
-    public static void swap(Employee x, Employee y) {
+    public static void swap(Employee x, Employee y)
+    {
         Employee temp = x;
         x = y;
         y = temp;
@@ -45,24 +50,29 @@ public class ParamTest {
         System.out.println("End of method : y=" + y.getName());
     }
 
-    static class Employee {
+    static class Employee
+    {
         private String name;
         private double salary;
 
-        public Employee(String n, double s) {
+        public Employee(String n, double s)
+        {
             this.name = n;
             this.salary = s;
         }
 
-        public String getName() {
+        public String getName()
+        {
             return this.name;
         }
 
-        public double getSalary() {
+        public double getSalary()
+        {
             return this.salary;
         }
 
-        public void raiseSalary(double byPercent) {
+        public void raiseSalary(double byPercent)
+        {
             double raise = this.salary * byPercent / 100;
             this.salary += raise;
         }

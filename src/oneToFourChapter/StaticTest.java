@@ -2,15 +2,18 @@ package oneToFourChapter;
 
 import java.time.LocalDate;
 
-public class StaticTest {
-    public static void main(String[] args) {
+public class StaticTest
+{
+    public static void main(String[] args)
+    {
         Employee[] staff = new Employee[3];
 
         staff[0] = new Employee("Carl Cracker", 75000);
         staff[1] = new Employee("Luke Skywalker", 100000);
         staff[2] = new Employee("Rachel Green", 12034);
 
-        for (Employee e : staff) {
+        for (Employee e : staff)
+        {
             e.setId();
             System.out.println("name=" + e.getName() + "id=" + e.getId() + "salary=" + e.getSalary());
         }
@@ -22,7 +25,8 @@ public class StaticTest {
     }
 }
 
-class Employee {
+class Employee
+{
     private static int nextId = 1;
 
     private String name;
@@ -30,37 +34,42 @@ class Employee {
     private LocalDate hireDay;
     private int id;
 
-    public Employee(String n, double s) {
+    public Employee(String n, double s)
+    {
         name = n;
         salary = s;
         //hireDay = LocalDate.of(year, month, day);
         id = 0;
     }
 
-    public String getName() {
+    public String getName()
+    {
         return name;
     }
 
-    public double getSalary() {
+    public double getSalary()
+    {
         return salary;
     }
-
-    //
+//
 //    public LocalDate getHireDay()
 //    {
 //        return hireDay;
 //    }
 //
-    public int getId() {
+    public int getId()
+    {
         return id;
     }
 
-    public void setId() {
+    public void setId()
+    {
         id = nextId;
         nextId++;
     }
 
-    public static int getNextId() {
+    public static int getNextId()
+    {
         return nextId;
     }
 
