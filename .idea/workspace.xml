@@ -1,45 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="上传">
+    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="格式化代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClasses/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayList/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayList/ArrayListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clone/CloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clone/CloneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clone/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clone/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enums/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/EnumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enums/enums/EnumTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/enums/EnumTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enums/enums/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/enums/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enums/enums/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/enums/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enums/enums/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/enums/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/equals/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/equals/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/ManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/innerClass/InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/innerClass/InnerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/EmployeeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/EmployeeSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/BigIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/BigIntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/CompoundInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/ConstructorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/FirstSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/FirstSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/LotteryArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/LotteryArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/LotteryDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/LotteryDrawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/LotteryOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/LotteryOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/PackageTest/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/PackageTest/PackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/PackageTest/com/horstmann/corejava/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/PackageTest/com/horstmann/corejava/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/ParamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/StaticTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stackTrace/StackTraceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stackTrace/StackTraceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timer/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timer/TimerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tryTest/TryTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tryTest/TryTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tryTest/TryTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tryTest/TryTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,9 +205,9 @@
       <recent name="asd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Retirement2">
-    <configuration name="CalenderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.CalenderTest" />
+  <component name="RunManager" selected="Application.LotteryDrawing">
+    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.InputTest" />
       <module name="CoreJavaList" />
       <extension name="coverage">
         <pattern>
@@ -255,8 +219,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.InputTest" />
+    <configuration name="LotteryDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.LotteryDrawing" />
       <module name="CoreJavaList" />
       <extension name="coverage">
         <pattern>
@@ -307,31 +271,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CalenderTest" />
       <item itemvalue="Application.ManagerTest" />
       <item itemvalue="Application.PackageTest" />
       <item itemvalue="Application.InputTest" />
       <item itemvalue="Application.Retirement2" />
+      <item itemvalue="Application.LotteryDrawing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LotteryDrawing" />
         <item itemvalue="Application.Retirement2" />
         <item itemvalue="Application.InputTest" />
         <item itemvalue="Application.PackageTest" />
         <item itemvalue="Application.ManagerTest" />
-        <item itemvalue="Application.CalenderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -407,14 +373,8 @@
       <workItem from="1543971801890" duration="2512000" />
       <workItem from="1544962842172" duration="702000" />
       <workItem from="1547021123738" duration="601000" />
-      <workItem from="1614582101889" duration="7871000" />
-    </task>
-    <task id="LOCAL-00007" summary="重新打包">
-      <created>1538791401945</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1538791401945</updated>
+      <workItem from="1614582101889" duration="11214000" />
+      <workItem from="1614601421445" duration="1319000" />
     </task>
     <task id="LOCAL-00008" summary="重新打包">
       <created>1538791452988</created>
@@ -752,7 +712,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614589701911</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="格式化代码">
+      <created>1614593181632</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1614593181632</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -867,9 +834,9 @@
     <MESSAGE value="代码格式化" />
     <MESSAGE value="格式化输出" />
     <MESSAGE value="修正warning" />
-    <MESSAGE value="格式化代码" />
     <MESSAGE value="上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="上传" />
+    <MESSAGE value="格式化代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="格式化代码" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
