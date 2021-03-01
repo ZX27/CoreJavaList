@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="堆栈追踪的示例代码">
+      <change afterPath="$PROJECT_DIR$/src/oneToFourChapter/InputTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/CalenderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/CalenderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +177,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -195,7 +197,7 @@
       <recent name="asd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalenderTest">
+  <component name="RunManager" selected="Application.PackageTest">
     <configuration name="CalenderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oneToFourChapter.CalenderTest" />
       <module name="CoreJavaList" />
@@ -222,38 +224,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.ManagerTest" />
+      <module name="CoreJavaList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.PackageTest.PackageTest" />
+      <module name="CoreJavaList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneToFourChapter.PackageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackTraceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stackTrace.StackTraceTest" />
       <module name="CoreJavaList" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stackTrace.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tryTest.TryTest1" />
-      <module name="CoreJavaList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tryTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tryTest.TryTest2" />
-      <module name="CoreJavaList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tryTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,19 +275,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TryTest1" />
-      <item itemvalue="Application.TryTest2" />
       <item itemvalue="Application.StackTraceTest" />
       <item itemvalue="Application.FirstSample" />
       <item itemvalue="Application.CalenderTest" />
+      <item itemvalue="Application.ManagerTest" />
+      <item itemvalue="Application.PackageTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PackageTest" />
+        <item itemvalue="Application.ManagerTest" />
         <item itemvalue="Application.CalenderTest" />
         <item itemvalue="Application.FirstSample" />
         <item itemvalue="Application.StackTraceTest" />
-        <item itemvalue="Application.TryTest1" />
-        <item itemvalue="Application.TryTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +363,7 @@
       <workItem from="1543971801890" duration="2512000" />
       <workItem from="1544962842172" duration="702000" />
       <workItem from="1547021123738" duration="601000" />
-      <workItem from="1614582101889" duration="373000" />
+      <workItem from="1614582101889" duration="1313000" />
     </task>
     <task id="LOCAL-00001" summary="OK">
       <created>1538742850921</created>
@@ -685,7 +687,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542159642205</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="堆栈追踪的示例代码">
+      <created>1614582654536</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1614582654536</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -744,12 +753,12 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
       </list>
     </option>
   </component>
@@ -758,7 +767,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -786,17 +807,6 @@
     <MESSAGE value="异常捕获的示例代码" />
     <MESSAGE value="堆栈追踪的示例代码" />
     <option name="LAST_COMMIT_MESSAGE" value="堆栈追踪的示例代码" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oneToFourChapter/CalenderTest.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

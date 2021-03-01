@@ -3,10 +3,8 @@ package oneToFourChapter;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class LotteryDrawing
-{
-    public static void main(String[] args)
-    {
+public class LotteryDrawing {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
         System.out.print("How many numbers do you need to draw?");
@@ -16,14 +14,12 @@ public class LotteryDrawing
         int n = in.nextInt();
 
         int[] numbers = new int[n];
-        for (int i = 0; i < numbers.length; i++)
-        {
+        for (int i = 0; i < numbers.length; i++) {
             numbers[i] = i + 1;
         }
 
         int[] results = new int[k];
-        for (int i = 0; i < results.length; i++)
-        {
+        for (int i = 0; i < results.length; i++) {
             int r = (int) (Math.random() * n);
             results[i] = numbers[r];
             numbers[r] = numbers[n - 1];//不重复取数字
@@ -32,14 +28,12 @@ public class LotteryDrawing
 
         Arrays.sort(results);
         System.out.println("Bet tje following combination. It'll make you rich!");
-        for (int i: results)
+        for (int i : results)
             System.out.println(i);
     }
 
-    public static class InputTest
-    {
-        public static void main(String[] args)
-        {
+    public static class InputTest {
+        public static void main(String[] args) {
             Scanner in = new Scanner(System.in);
 
             //get first input

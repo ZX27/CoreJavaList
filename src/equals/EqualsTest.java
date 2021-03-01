@@ -1,13 +1,13 @@
 package equals;
 
-/**This program demonstrates the equals method.
+/**
+ * This program demonstrates the equals method.
+ *
  * @author ZX27
  */
 
-public class EqualsTest
-{
-    public static void main(String[] args)
-    {
+public class EqualsTest {
+    public static void main(String[] args) {
         Employee chandler1 = new Employee("Chandler Bing", 50000, 1999, 12, 21);
         Employee chandler2 = chandler1;
         Employee chandler3 = new Employee("Chandler Bing", 50000, 1999, 12, 21);

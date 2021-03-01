@@ -6,13 +6,12 @@ import javax.swing.Timer;
 
 /**
  * This program demonstrates the use of lambda expressions.
+ *
  * @author ZX27
  */
-public class LambdaTest
-{
-    public static void main(String[] args)
-    {
-        String[] planets = new String[] {"Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"};
+public class LambdaTest {
+    public static void main(String[] args) {
+        String[] planets = new String[]{"Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"};
         System.out.println(Arrays.toString(planets));
         System.out.println("Sorted in dictionary order:");
 //        Arrays.sort(planets);

@@ -8,13 +8,12 @@ import javax.swing.Timer;
 
 /**
  * This program demonstrates the use of inner class
+ *
  * @author ZX27
  */
 
-public class InnerClass
-{
-    public static void main(String[] args)
-    {
+public class InnerClass {
+    public static void main(String[] args) {
         TalkingClock clock = new TalkingClock(500, true);
         clock.start();
 
@@ -27,18 +26,17 @@ public class InnerClass
 /**
  * A clock that prints the time in regular intervals.
  */
-class TalkingClock
-{
+class TalkingClock {
     private int interval;
     private boolean beep;
 
     /**
      * Constructs a talking clock
+     *
      * @param interval the interval between messages (in milliseconds)
-     * @param beep true if the clock should beep
+     * @param beep     true if the clock should beep
      */
-    public TalkingClock(int interval, boolean beep)
-    {
+    public TalkingClock(int interval, boolean beep) {
         this.interval = interval;
         this.beep = beep;
     }
@@ -46,17 +44,14 @@ class TalkingClock
     /**
      * Starts a clock
      */
-    public void start()
-    {
+    public void start() {
         ActionListener listener = new TimePrinter();
         Timer t = new Timer(interval, listener);
         t.start();
     }
 
-    public class TimePrinter implements ActionListener
-    {
-        public void actionPerformed(ActionEvent event)
-        {
+    public class TimePrinter implements ActionListener {
+        public void actionPerformed(ActionEvent event) {
             System.out.println("At the tone, the time is " + new Date());
             if (beep)
                 Toolkit.getDefaultToolkit().beep();
