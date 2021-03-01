@@ -2,11 +2,12 @@ package inheritance;
 
 /**
  * This programme demonstrates inheritance
- *
  * @author by ZX27
  */
-public class ManagerTest {
-    public static void main(String[] args) {
+public class ManagerTest
+{
+    public static void main(String[] args)
+    {
         //construct a Manager Object
         Manager boss = new Manager("Chandler", 80000, 1998, 12, 23);
         boss.setBonus(10000);
