@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="堆栈追踪的示例代码">
+    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="代码格式化">
       <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/InputTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -362,14 +362,7 @@
       <workItem from="1543971801890" duration="2512000" />
       <workItem from="1544962842172" duration="702000" />
       <workItem from="1547021123738" duration="601000" />
-      <workItem from="1614582101889" duration="1823000" />
-    </task>
-    <task id="LOCAL-00001" summary="OK">
-      <created>1538742850921</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1538742850921</updated>
+      <workItem from="1614582101889" duration="2157000" />
     </task>
     <task id="LOCAL-00002" summary="OK">
       <created>1538743728784</created>
@@ -707,7 +700,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614583637896</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="代码格式化">
+      <created>1614584101748</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1614584101748</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -819,7 +819,8 @@
     <MESSAGE value="ok" />
     <MESSAGE value="异常捕获的示例代码" />
     <MESSAGE value="堆栈追踪的示例代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="堆栈追踪的示例代码" />
+    <MESSAGE value="代码格式化" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码格式化" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

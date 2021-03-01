@@ -15,6 +15,7 @@ public class InputTest {
         int age = in.nextInt();
 
         //display output on console
-        System.out.println("Hello, " + name + ". Next year, you'll be " + (age + 1));
+//        System.out.println("Hello, " + name + ". Next year, you'll be " + (age + 1));
+        System.out.printf("Hello, %s. Next year, you'll be %d.", name, age + 1);
     }
 }
