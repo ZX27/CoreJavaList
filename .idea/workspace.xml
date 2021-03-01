@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="代码格式化">
+    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="格式化输出">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/InputTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +189,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.25222552" />
   </component>
   <component name="RecentsManager">
@@ -362,14 +363,7 @@
       <workItem from="1543971801890" duration="2512000" />
       <workItem from="1544962842172" duration="702000" />
       <workItem from="1547021123738" duration="601000" />
-      <workItem from="1614582101889" duration="2157000" />
-    </task>
-    <task id="LOCAL-00002" summary="OK">
-      <created>1538743728784</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1538743728784</updated>
+      <workItem from="1614582101889" duration="3410000" />
     </task>
     <task id="LOCAL-00003" summary="ok">
       <created>1538747349349</created>
@@ -707,7 +701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614584101748</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="格式化输出">
+      <created>1614584339424</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1614584339424</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -820,7 +821,8 @@
     <MESSAGE value="异常捕获的示例代码" />
     <MESSAGE value="堆栈追踪的示例代码" />
     <MESSAGE value="代码格式化" />
-    <option name="LAST_COMMIT_MESSAGE" value="代码格式化" />
+    <MESSAGE value="格式化输出" />
+    <option name="LAST_COMMIT_MESSAGE" value="格式化输出" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
