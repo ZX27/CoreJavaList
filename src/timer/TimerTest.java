@@ -6,14 +6,13 @@ import java.util.*;
 import javax.swing.*;
 import javax.swing.Timer;
 //消除和java.util.Timer的二义性
+
 /**
  * @author ZX27
  */
 
-public class TimerTest
-{
-    public static void main(String[] args)
-    {
+public class TimerTest {
+    public static void main(String[] args) {
         ActionListener listener = new TimePrinter();
 
         //construct a timer that calls the listener
@@ -25,10 +24,8 @@ public class TimerTest
     }
 }
 
-class TimePrinter implements ActionListener
-{
-    public void actionPerformed(ActionEvent event)
-    {
+class TimePrinter implements ActionListener {
+    public void actionPerformed(ActionEvent event) {
         System.out.println("At the tone, the time is " + new Date());
         Toolkit.getDefaultToolkit().beep();
     }

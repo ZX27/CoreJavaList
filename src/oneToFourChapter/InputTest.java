@@ -3,7 +3,7 @@ package oneToFourChapter;
 import java.util.Scanner;
 
 public class InputTest {
-    public static void main(String args) {
+    public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
 
         //get first input

@@ -12,25 +12,21 @@ import java.util.Random;
     静态初始化块
     实例域初始化
 */
-public class ConstructorTest
-{
-    public static void main(String[] args)
-    {
+public class ConstructorTest {
+    public static void main(String[] args) {
         Employee[] staff = new Employee[3];
 
         staff[0] = new Employee("Joey", 30000);
         staff[1] = new Employee(40000);
         staff[2] = new Employee();
 
-        for (Employee e : staff)
-        {
+        for (Employee e : staff) {
             System.out.println("name=" + e.getName() + ", id=" + e.getId() + " , salary=" + e.getSalary());
         }
 
     }
 
-    static class Employee
-    {
+    static class Employee {
         private static int nextId;
 
         private int id;
@@ -38,8 +34,7 @@ public class ConstructorTest
         private double salary;
 
         //static initialization block
-        static
-        {
+        static {
             Random generater = new Random();
             //set nextId to a random number between 0 and 9999
             nextId = generater.nextInt(10000);
@@ -53,34 +48,28 @@ public class ConstructorTest
 
 
         //three overload constructors
-        public Employee(String n, double s)
-        {
+        public Employee(String n, double s) {
             name = n;
             salary = s;
         }
 
-        public Employee(double s)
-        {
+        public Employee(double s) {
             this("Employee #" + nextId, s);
         }
 
-        public Employee()
-        {
+        public Employee() {
 
         }
 
-        public double getSalary()
-        {
+        public double getSalary() {
             return salary;
         }
 
-        public String getName()
-        {
+        public String getName() {
             return name;
         }
 
-        public int getId()
-        {
+        public int getId() {
             return id;
         }
     }

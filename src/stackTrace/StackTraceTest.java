@@ -4,18 +4,18 @@ import java.util.Scanner;
 
 /**
  * A program that displays a trace feature of a recursive method call
+ *
  * @author ZX27
  */
 
-public class StackTraceTest
-{
+public class StackTraceTest {
     /**
      * computes the factorial of a number
+     *
      * @param n a non-negative integer
      * @return n! = 1 * 2 * . . . * n
      */
-    public static int factorial(int n)
-    {
+    public static int factorial(int n) {
         System.out.println("factorial(" + n + "):");
         Throwable t = new Throwable();
         StackTraceElement[] frames = t.getStackTrace();
@@ -30,8 +30,7 @@ public class StackTraceTest
         return r;
     }
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter n: ");
         int n = in.nextInt();
