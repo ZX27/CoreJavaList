@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="修正warning" />
+    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="格式化代码">
+      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/Retirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/Retirement.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -368,14 +370,7 @@
       <workItem from="1543971801890" duration="2512000" />
       <workItem from="1544962842172" duration="702000" />
       <workItem from="1547021123738" duration="601000" />
-      <workItem from="1614582101889" duration="3783000" />
-    </task>
-    <task id="LOCAL-00004" summary="ok">
-      <created>1538747667555</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1538747667555</updated>
+      <workItem from="1614582101889" duration="4104000" />
     </task>
     <task id="LOCAL-00005" summary="package引用测试">
       <created>1538751043926</created>
@@ -713,7 +708,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614586424570</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="格式化代码">
+      <created>1614587045914</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1614587045914</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -828,7 +830,8 @@
     <MESSAGE value="代码格式化" />
     <MESSAGE value="格式化输出" />
     <MESSAGE value="修正warning" />
-    <option name="LAST_COMMIT_MESSAGE" value="修正warning" />
+    <MESSAGE value="格式化代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="格式化代码" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
