@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="终于不自动提交class文件了">
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/LotteryArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/LotteryArray.java" afterDir="false" />
+    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="修改注释">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,9 @@
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="ZX27" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="CoreJavaList" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/time/LocalDate.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -204,7 +207,20 @@
       <recent name="asd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LotteryArray">
+  <component name="RunManager" selected="Application.CalenderTest">
+    <configuration name="CalenderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.CalenderTest" />
+      <module name="CoreJavaList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneToFourChapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oneToFourChapter.InputTest" />
       <module name="CoreJavaList" />
@@ -244,19 +260,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PackageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.PackageTest.PackageTest" />
-      <module name="CoreJavaList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oneToFourChapter.PackageTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Retirement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oneToFourChapter.Retirement2" />
       <module name="CoreJavaList" />
@@ -282,19 +285,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PackageTest" />
       <item itemvalue="Application.InputTest" />
       <item itemvalue="Application.Retirement2" />
       <item itemvalue="Application.LotteryDrawing" />
       <item itemvalue="Application.LotteryArray" />
+      <item itemvalue="Application.CalenderTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalenderTest" />
         <item itemvalue="Application.LotteryArray" />
         <item itemvalue="Application.LotteryDrawing" />
         <item itemvalue="Application.Retirement2" />
         <item itemvalue="Application.InputTest" />
-        <item itemvalue="Application.PackageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -373,14 +376,7 @@
       <workItem from="1614582101889" duration="11214000" />
       <workItem from="1614601421445" duration="5657000" />
       <workItem from="1614736586946" duration="1251000" />
-      <workItem from="1614738662177" duration="425000" />
-    </task>
-    <task id="LOCAL-00012" summary="ok">
-      <created>1538793743244</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1538793743244</updated>
+      <workItem from="1614738662177" duration="4032000" />
     </task>
     <task id="LOCAL-00013" summary="abstract classes test">
       <created>1538810712840</created>
@@ -718,7 +714,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614738910732</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="修改注释">
+      <created>1614739230588</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1614739230588</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -814,7 +817,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="package引用测试" />
     <MESSAGE value="重新打包" />
     <MESSAGE value="OK" />
     <MESSAGE value="First hello world" />
@@ -839,7 +841,24 @@
     <MESSAGE value="更新注释" />
     <MESSAGE value="增加注释" />
     <MESSAGE value="终于不自动提交class文件了" />
-    <option name="LAST_COMMIT_MESSAGE" value="终于不自动提交class文件了" />
+    <MESSAGE value="修改注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改注释" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oneToFourChapter/CalenderTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oneToFourChapter/CalenderTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

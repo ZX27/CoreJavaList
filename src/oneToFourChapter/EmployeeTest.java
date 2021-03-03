@@ -4,6 +4,7 @@ import java.time.LocalDate;
 
 public class EmployeeTest {
     public static void main(String[] args) {
+        //fill the staff array with three Employee objects
         Employee[] staff = new Employee[3];
 
         staff[0] = new Employee("Carl Cracker", 75000, 1987, 12, 5);
@@ -11,9 +12,11 @@ public class EmployeeTest {
         staff[2] = new Employee("Rachel Green", 12034, 1998, 5, 23);
 
         for (Employee e : staff) {
+            //raise everyone's salary by 5%
             e.raiseSalary(5);
         }
 
+        //print out information about all Employee objects
         for (Employee e : staff) {
             System.out.println("name=" + e.getName() + ", salary=" + e.getSalary() + ", hireDay=" + e.getHireDay());
         }
