@@ -10,6 +10,7 @@ public class LotteryArray {
             odds[n] = new int[n + 1]; //每一行的数组元素都为 行数+1
         }
 
+        //fill triangular array
         for (int n = 0; n < odds.length; n++) {
             for (int k = 0; k < odds[n].length; k++) {
                 int lotteryOdds = 1;
