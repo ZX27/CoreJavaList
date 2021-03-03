@@ -4,9 +4,10 @@ public class LotteryArray {
     public static void main(String[] args) {
         final int NMAX = 10;
 
-        int[][] odds = new int[NMAX + 1][];
+        //allocate triangular array
+        int[][] odds = new int[NMAX + 1][]; //初始化一个 NMAX+1 行的数组
         for (int n = 0; n <= NMAX; n++) {
-            odds[n] = new int[n + 1];
+            odds[n] = new int[n + 1]; //每一行的数组元素都为 行数+1
         }
 
         for (int n = 0; n < odds.length; n++) {

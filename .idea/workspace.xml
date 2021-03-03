@@ -1,9 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="格式化代码">
+    <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/LotteryDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/LotteryDrawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/abstractClasses/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/abstractClasses/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/abstractClasses/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/abstractClasses/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/abstractClasses/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/abstractClasses/PersonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/abstractClasses/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/abstractClasses/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/arrayList/ArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/arrayList/ArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/arrayList/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/arrayList/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/clone/CloneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/clone/CloneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/clone/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/clone/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/enums/EnumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/enums/EnumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/enums/Size.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/enums/Size.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/enums/enums/EnumTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/enums/enums/EnumTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/enums/enums/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/enums/enums/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/enums/enums/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/enums/enums/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/enums/enums/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/enums/enums/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/equals/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/equals/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/equals/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/equals/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/inheritance/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/inheritance/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/inheritance/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/inheritance/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/inheritance/ManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/inheritance/ManagerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/innerClass/InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/innerClass/InnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/innerClass/TalkingClock$TimePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/innerClass/TalkingClock$TimePrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/innerClass/TalkingClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/innerClass/TalkingClock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/interfaces/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/interfaces/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/interfaces/EmployeeSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/interfaces/EmployeeSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/lambda/LambdaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/BigIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/BigIntegerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/CompoundInterest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/CompoundInterest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/ConstructorTest$Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/ConstructorTest$Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/ConstructorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/ConstructorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/EmployeeTest$Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/EmployeeTest$Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/EmployeeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/FirstSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/FirstSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/LotteryArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/LotteryArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/LotteryDrawing$InputTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/LotteryDrawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/LotteryDrawing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/LotteryOdds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/LotteryOdds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/PackageTest/PackageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/PackageTest/PackageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/PackageTest/com/horstmann/corejava/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/PackageTest/com/horstmann/corejava/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/ParamTest$Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/ParamTest$Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/ParamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/ParamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/oneToFourChapter/StaticTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/stackTrace/StackTraceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/stackTrace/StackTraceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/timer/TimePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/timer/TimePrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/timer/TimerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/timer/TimerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/tryTest/TryTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/tryTest/TryTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaList/tryTest/TryTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaList/tryTest/TryTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/LotteryArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/LotteryArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +244,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.25222552" />
   </component>
   <component name="RecentsManager">
@@ -205,9 +252,22 @@
       <recent name="asd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LotteryDrawing">
+  <component name="RunManager" selected="Application.LotteryArray">
     <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oneToFourChapter.InputTest" />
+      <module name="CoreJavaList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oneToFourChapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LotteryArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.LotteryArray" />
       <module name="CoreJavaList" />
       <extension name="coverage">
         <pattern>
@@ -225,19 +285,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oneToFourChapter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.ManagerTest" />
-      <module name="CoreJavaList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,33 +318,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ManagerTest" />
       <item itemvalue="Application.PackageTest" />
       <item itemvalue="Application.InputTest" />
       <item itemvalue="Application.Retirement2" />
       <item itemvalue="Application.LotteryDrawing" />
+      <item itemvalue="Application.LotteryArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LotteryArray" />
         <item itemvalue="Application.LotteryDrawing" />
         <item itemvalue="Application.Retirement2" />
         <item itemvalue="Application.InputTest" />
         <item itemvalue="Application.PackageTest" />
-        <item itemvalue="Application.ManagerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -311,6 +345,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="" />
+      <changelist id="" name="Class" comment="" />
       <created>1536662402716</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -374,28 +409,8 @@
       <workItem from="1544962842172" duration="702000" />
       <workItem from="1547021123738" duration="601000" />
       <workItem from="1614582101889" duration="11214000" />
-      <workItem from="1614601421445" duration="1319000" />
-    </task>
-    <task id="LOCAL-00008" summary="重新打包">
-      <created>1538791452988</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1538791452988</updated>
-    </task>
-    <task id="LOCAL-00009" summary="重新打包">
-      <created>1538791839303</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1538791839303</updated>
-    </task>
-    <task id="LOCAL-00010" summary="OK">
-      <created>1538793101630</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1538793101630</updated>
+      <workItem from="1614601421445" duration="5657000" />
+      <workItem from="1614736586946" duration="1251000" />
     </task>
     <task id="LOCAL-00011" summary="First hello world">
       <created>1538793428718</created>
@@ -719,7 +734,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614593181632</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="错误修正，注释补全">
+      <created>1614602789571</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1614602789571</updated>
+    </task>
+    <task id="LOCAL-00058" summary="更新注释">
+      <created>1614603911537</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1614603911537</updated>
+    </task>
+    <task id="LOCAL-00059" summary="增加注释">
+      <created>1614736263916</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1614736263916</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -836,7 +872,10 @@
     <MESSAGE value="修正warning" />
     <MESSAGE value="上传" />
     <MESSAGE value="格式化代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="格式化代码" />
+    <MESSAGE value="错误修正，注释补全" />
+    <MESSAGE value="更新注释" />
+    <MESSAGE value="增加注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加注释" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
