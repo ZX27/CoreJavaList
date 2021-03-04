@@ -12,7 +12,7 @@ public class StaticTest {
 
         for (Employee e : staff) {
             e.setId();
-            System.out.println("name=" + e.getName() + "id=" + e.getId() + "salary=" + e.getSalary());
+            System.out.println("name=" + e.getName() + " id=" + e.getId() + " salary=" + e.getSalary());
         }
 
         int n = Employee.getNextId();
@@ -27,7 +27,7 @@ class Employee {
 
     private String name;
     private double salary;
-    private LocalDate hireDay;
+    //private LocalDate hireDay;
     private int id;
 
     public Employee(String n, double s) {
@@ -45,7 +45,7 @@ class Employee {
         return salary;
     }
 
-    //
+
 //    public LocalDate getHireDay()
 //    {
 //        return hireDay;
@@ -73,6 +73,6 @@ class Employee {
     public static void main(String[] args)  //单元测试（一个类只能有一个main方法）
     {
         Employee e = new Employee("Luke Skywalker", 2000000);
-        System.out.println(e.getName() + "" + e.getSalary());
+        System.out.println(e.getName() + " " + e.getSalary());
     }
 }

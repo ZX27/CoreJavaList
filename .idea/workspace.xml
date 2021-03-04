@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bafac3f6-d3d8-43ce-8626-aa9f250e8ee2" name="Default Changelist" comment="修改注释">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oneToFourChapter/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneToFourChapter/StaticTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +208,7 @@
       <recent name="asd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalenderTest">
+  <component name="RunManager" selected="Application.StaticTest">
     <configuration name="CalenderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oneToFourChapter.CalenderTest" />
       <module name="CoreJavaList" />
@@ -221,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.InputTest" />
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.Employee" />
       <module name="CoreJavaList" />
       <extension name="coverage">
         <pattern>
@@ -260,8 +261,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Retirement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.Retirement2" />
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToFourChapter.StaticTest" />
       <module name="CoreJavaList" />
       <extension name="coverage">
         <pattern>
@@ -273,31 +274,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.InputTest" />
-      <item itemvalue="Application.Retirement2" />
       <item itemvalue="Application.LotteryDrawing" />
       <item itemvalue="Application.LotteryArray" />
       <item itemvalue="Application.CalenderTest" />
+      <item itemvalue="Application.Employee" />
+      <item itemvalue="Application.StaticTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.Employee" />
         <item itemvalue="Application.CalenderTest" />
         <item itemvalue="Application.LotteryArray" />
         <item itemvalue="Application.LotteryDrawing" />
-        <item itemvalue="Application.Retirement2" />
-        <item itemvalue="Application.InputTest" />
       </list>
     </recent_temporary>
   </component>
@@ -376,14 +366,9 @@
       <workItem from="1614582101889" duration="11214000" />
       <workItem from="1614601421445" duration="5657000" />
       <workItem from="1614736586946" duration="1251000" />
-      <workItem from="1614738662177" duration="4032000" />
-    </task>
-    <task id="LOCAL-00013" summary="abstract classes test">
-      <created>1538810712840</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1538810712840</updated>
+      <workItem from="1614738662177" duration="7509000" />
+      <workItem from="1614769708245" duration="594000" />
+      <workItem from="1614819734083" duration="313000" />
     </task>
     <task id="LOCAL-00014" summary="new changes">
       <created>1538810950850</created>
@@ -721,7 +706,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614739230588</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="修改注释">
+      <created>1614755593879</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1614755593879</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TestHistory">
